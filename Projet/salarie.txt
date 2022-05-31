@@ -1,0 +1,6 @@
+Salarie [Matricule=1, Nom=fgf, Email=gfhg, Annee=4245.0, Salaire=4545.0, categorie=employee]
+Salarie [Matricule=5, Nom=bnvb, Email=bvn, Annee=5655.0, Salaire=565.0, categorie=employee]
+Salarie [Matricule=8, Nom=ezfregre, Email=gfh, Annee=2222.0, Salaire=2222.0, categorie=vendeur]
+Salarie [Matricule=9, Nom=aaaa, Email=aaaaa, Annee=55.0, Salaire=5555.0, categorie=vendeur]
+Salarie [Matricule=9, Nom=nbn, Email=vbnbv, Annee=22424.0, Salaire=2424.0, categorie=vbvb]
+Salarie [Matricule=9, Nom=nbnbbb, Email=vbnbv, Annee=22424.0, Salaire=2424.0, categorie=dddddddd]
